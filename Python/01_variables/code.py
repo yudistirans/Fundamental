@@ -4,6 +4,6 @@ b = a
 print(a)
 print(b)
 
-name = "Yudis"
+name = "John"
 
 print(name + name)
