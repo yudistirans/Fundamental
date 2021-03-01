@@ -1,9 +1,9 @@
-lists = ["Yudistira","Nur","Sasongko"]
-tuples = ("Yudistira","Nur","Sasongko")
-sets = {"Yudistira","Nur","Sasongko"}
+lists = ["Apel","Semangka","Jeruk"]
+tuples = ("Apel","Semangka","Jeruk")
+sets = {"Apel","Semangka","Jeruk"}
 
-lists.append("Smith")
-lists.append("Smith")
+lists.append("Pisang")
+lists.append("Pisang")
 print(lists)
 print(tuples)
 print(sets)

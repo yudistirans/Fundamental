@@ -1,4 +1,4 @@
-name = "Yudistira"
+name = "John"
 greeting = f"Helo, {name}"
 
 print(greeting)
