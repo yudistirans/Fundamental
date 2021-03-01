@@ -1,20 +1,28 @@
 [
-{
-    "name" : "Yudistira",
-    "umur" : 30,
-    "nik" : "10028627",
-    "hobby" : [
-        "Coding", 
-        "Gaming"
-    ]
-},
-{
-    "name" : "Hendra",
-    "umur" : 30,
-    "nik" : "10018627",
-    "hobby" : [
-        "Coding", 
-        "Gaming"
-    ]
-}
+    {
+        "nama" : "John",
+        "umur" : 30,
+        "nik" : "10028627",
+        "hobi" : [
+            "Coding", 
+            "Gaming"
+        ],
+        "skil": {
+            "programming_language": "PHP, Python, Javascript",
+            "Database": "Mysql, mariaDB"
+        }
+    },
+    {
+        "nama" : "Due",
+        "umur" : 30,
+        "nik" : "10028611",
+        "hobi" : [
+            "Learning", 
+            "Gaming"
+        ],
+        "skil": {
+            "programming_language": "HTML, CSS",
+            "Database": "Oracle"
+        }
+    }
 ]
